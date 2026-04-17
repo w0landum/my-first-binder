@@ -1,2 +1,5 @@
 # my-first-binder
-jupyteriga tegutsemiseks
+pandas
+seaborn
+matplotlib
+matplotlib-inline
